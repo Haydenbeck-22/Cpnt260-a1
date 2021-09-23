@@ -4,28 +4,27 @@ header {
   align-items: center;
   justify-content: flex-start;
   flex-wrap: wrap;
-  background-color: #FFC7C7;
-  
+  background-color: #ffc7c7;
 }
-.h1{
-  background-color: #FFC7C7;
-  font-family: 'Open Sans', sans-serif;
+.h1 {
+  background-color: #ffc7c7;
+  font-family: "Open Sans", sans-serif;
 }
-a{
+a {
   color: black;
   text-decoration: none;
-  background-color:#C7FFFF ;
+  background-color: #c7ffff;
   padding: 10% 7% 10% 7%;
   border-style: solid;
   border-width: 0.5px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
-a:hover{
-  background-color: #FFFEC7;
+a:hover {
+  background-color: #fffec7;
 }
-h2{
+h2 {
   font-size: 1.4vw;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 nav ul {
   display: flex;
@@ -39,34 +38,35 @@ section {
   justify-content: center;
   flex-direction: row;
 }
-p{
- width: 50%; 
- background-color: white;
- font-size: 1.1vw;
- font-family: 'Open Sans', sans-serif;
- flex-wrap: wrap;
+p {
+  width: 50%;
+  background-color: white;
+  font-size: 1.1vw;
+  font-family: "Open Sans", sans-serif;
+  flex-wrap: wrap;
 }
-img{
+img {
   max-width: 900px;
-  float:right;
+  float: right;
   flex-wrap: wrap-reverse;
 }
-html, body, footer {
-  margin: 0; 
+html,
+body,
+footer {
+  margin: 0;
   padding: 0;
   background-image: url();
 }
 footer {
-	position: fixed;
-	width: 100%;
-	left: 0;
-	bottom: 0;
-  background-color:#FFC7C7 ;
-	color: black;
-	text-align: center;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  background-color: #ffc7c7;
+  color: black;
+  text-align: center;
 }
-.div{
-display: flex;
-justify-content: center;
-
+.div {
+  display: flex;
+  justify-content: center;
 }
