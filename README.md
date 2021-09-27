@@ -2,7 +2,7 @@
 
 ## Client Info Client is Jane, an artist. They create art and host community events.
 
-#Reflection
+# Reflection
   I had trouble aligning the images properly in the flexbox. I read documentation from W3Schools and the MDN in an attempt to overcome the problem, however I found the code for float: right; on stack overflow and that fixed my problem. 
 
  I was also unable to get the image to display on the github pages site, I am unsure of why this is.
